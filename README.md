@@ -2,7 +2,7 @@
 
 ## 研究室内で利用する場合
 
-以下へアクセス
+以下へアクセス（新しいタブで開くといいです。）
 
 <a href="http://jupyter.mushuntu.ib.lab">http://jupyter.mushuntu.ib.lab</a>
 
