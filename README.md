@@ -2,7 +2,14 @@
 
 ## 研究室内で利用する場合
 
+以下へアクセス
+
 <a href="http://jupyter.mushuntu.ib.lab">http://jupyter.mushuntu.ib.lab</a>
+
+以下のファイルをダウンロード後、サーバーにアップロードして使ってください。
+
+[https://github.com/iwanaminami/trial202408/blob/main/code.ipynb](https://github.com/iwanaminami/trial202408/blob/main/code.ipynb)
+
 
 ## 研究室外で利用する場合
 
