@@ -4,7 +4,7 @@
 
 以下へアクセス（新しいタブで開くといいです。）
 
-<a href="http://jupyter.mushuntu.ib.lab">http://jupyter.mushuntu.ib.lab</a>
+<a href="http://jupyter.mushuntu.ib.lab" target="_blank">http://jupyter.mushuntu.ib.lab</a>
 
 以下のファイルをダウンロード後、サーバーにアップロードして使ってください。
 
