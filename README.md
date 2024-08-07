@@ -2,7 +2,7 @@
 
 ## 研究室内で利用する場合
 
-<a href="http://jupyter.mushuntu.ib.lab" target="_blank">http://jupyter.mushuntu.ib.lab</a>
+<a href="http://jupyter.mushuntu.ib.lab">http://jupyter.mushuntu.ib.lab</a>
 
 ## 研究室外で利用する場合
 
